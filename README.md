@@ -43,7 +43,6 @@ It transforms raw customer data into meaningful insights, thereby assisting deci
 ## Technology Stack 
 
 - **Machine Learning**: Random Forest - Scikit-learn
-- **Backend**: Flask
 - **Languages**: Python
 - **Visualization**: Matplotlib, Seaborn
 - **Dataset**: Customer Churn Data(Telecom)
